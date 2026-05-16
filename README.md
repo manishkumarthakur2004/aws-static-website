@@ -1,10 +1,12 @@
 # AWS Static Website
 
-This is a simple static website hosted using Amazon S3.
+## S3 Website URL
+http://manish-static-site-78645.s3-website.eu-north-1.amazonaws.com
+
+## Features
+- Static website hosted on AWS S3
+- Public access enabled
+- HTML webpage deployment
 
 ## Files
 - index.html
-
-## Features
-- Static website hosting
-- Public access enabled
